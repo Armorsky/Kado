@@ -1,2 +1,0 @@
-# Kado
-Web
